@@ -6,4 +6,4 @@ To run this project:
 - npm run dev
 - open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-<iframe src="https://giphy.com/embed/McKC9Fl4ewe2I" width="480" height="366" frameBorder="0" class="giphy-embed">
+![snowball-bunny-carrot](https://user-images.githubusercontent.com/97276811/219307010-b4d14798-9d37-4459-b4cb-2f706d56fbcc.gif)
