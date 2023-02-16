@@ -26,6 +26,7 @@ export default function FormPost() {
             value={title}
             type="text"
             />
+            <button type="submit">Make a new post</button>
         </form>
     )
 }
